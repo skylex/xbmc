@@ -194,7 +194,7 @@
   <string id="222">Annuler</string>
   <string id="224">Vitesse</string>
   <string id="225">Hauteur de l'image</string>
-  <string id="226">Tester les motifs...</string>
+  <string id="226">Afficher la mire...</string>
   <string id="227">Rechercher le nom des pistes CD Audio sur freedb.org</string>
   <string id="228">Mélanger la playliste lors du chargement</string>
   <string id="229">Temps d'arrêt du DD</string>
@@ -2729,4 +2729,3 @@
   <!-- 34112-34200 reserved for future use -->
 
 </strings>
-
