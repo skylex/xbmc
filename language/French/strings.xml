@@ -193,6 +193,7 @@
   <string id="221">Le réseau n'est pas connecté</string>
   <string id="222">Annuler</string>
   <string id="224">Vitesse</string>
+  
   <string id="225">Hauteur de l'image</string>
   <string id="226">Afficher la mire...</string>
   <string id="227">Rechercher le nom des pistes CD Audio sur freedb.org</string>
@@ -1517,7 +1518,7 @@
   <string id="16400">Post-processing Vidéo</string>
   
   <string id="17500">Afficher temps avant la mise en veille</string>
-  
+
   <string id="17997">%i Mo</string>
   <string id="17998">%i heures</string>
   <string id="17999">%i jours</string>
